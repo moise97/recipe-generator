@@ -1,0 +1,5 @@
+google-generativeai
+gradio
+python-dotenv
+Pillow
+pytest
